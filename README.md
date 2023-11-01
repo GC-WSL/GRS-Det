@@ -1,5 +1,8 @@
 # GRS-Det
-Our code is based on https://github.com/argman/EAST.
+
+The official code of "High-Quality Angle Prediction for Oriented Object Detection in Remote Sensing Images".
+
+For more details, please refer to [EAST](https://github.com/argman/EAST) and [GRS-Det](https://ieeexplore.ieee.org/document/9186810).
 
 Some examples:
 
