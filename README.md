@@ -1,6 +1,6 @@
 # GRS-Det
 
-The official code of "High-Quality Angle Prediction for Oriented Object Detection in Remote Sensing Images".
+The official code of "GRS-Det: An Anchor-Free Rotation Ship Detector Based on Gaussian-Mask in Remote Sensing Images".
 
 For more details, please refer to [EAST](https://github.com/argman/EAST) and [GRS-Det](https://ieeexplore.ieee.org/document/9186810).
 
